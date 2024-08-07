@@ -13,5 +13,4 @@ public class Car extends Transport {
     private void checkEngine() {
         System.out.println("Проверяем двигатель");
     }
-
 }
