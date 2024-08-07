@@ -4,4 +4,5 @@ public class ServiceStation {
         System.out.println("Обслуживаем " + transport.getModelName());
         transport.check();
     }
+
 }

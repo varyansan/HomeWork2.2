@@ -26,4 +26,5 @@ public abstract class Transport {
         System.out.println("Меняем покрышку");
 
     }
+
 }
